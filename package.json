@@ -1,0 +1,25 @@
+{
+  "name": "typescript-postalcodes-jaminurmi",
+  "version": "1.0.0",
+  "description": "Tämän koodaustehtävän tavoitteena on luoda tarvittavat pohjatiedot myöhemmille tehtäville, joissa käsittelemme dataa ja testaamme ohjelmistoja [TypeScript-kielellä](https://www.typescriptlang.org/) Node.js-kehitysympäristössä. Kaikkien TypeScriptin ominaisuuksien opetteleminen etukäteen ei ole tarkoituksenmukaista, joten tässä tehtävässä tutustutaan tarvittaviin työkaluihin sekä perusrakenteisiin.",
+  "homepage": "https://github.com/harjoitukset-2026/typescript-postalcodes-jaminurmi#readme",
+  "bugs": {
+    "url": "https://github.com/harjoitukset-2026/typescript-postalcodes-jaminurmi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harjoitukset-2026/typescript-postalcodes-jaminurmi.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.3.0",
+    "typescript": "^7.0.2"
+  }
+}
